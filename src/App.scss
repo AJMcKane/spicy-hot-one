@@ -1,0 +1,17 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  background-color:  #f4f3f34d;
+  color: white;
+  font-weight: 500;
+  font-family: Arial, sans-serif;
+}
+
+.page-wrapper {
+  padding-left: 20px;
+  margin-bottom: 100px;
+}
+
+.custom-switch {
+  padding-left: 0;
+}

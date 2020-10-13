@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    font-size: 14;
+    margin-bottom: 10px;
+  }
+
+  .navbar {
+    background-color: black;    
+    padding-left: 25px;
+
+    .navbar-link {
+      padding-right: 0px;
+      color: white;
+    }
+
+    .nav-custom-right{
+      margin-right: 10px;
+
+      .navbar-text {
+        color: white
+      }
+    }
+  }
+
+
+  .navbar-brand {
+      display: flex;
+      align-items: center;
+
+      .logoImage {
+        height: 80px;
+      }      
+  }
+
+
+
+  

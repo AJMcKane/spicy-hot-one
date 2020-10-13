@@ -1,0 +1,16 @@
+.content-panel {
+    display: flex;
+    flex-direction: column;
+    font-size: 18;
+    height: 100%;
+    border: 1px solid black;
+    
+    background-color: #211f37;
+    padding: 10px 10px;
+
+    .content-card {
+        height: inherit;
+        background-color: transparent;
+        border: none;
+    }
+  }  
