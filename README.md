@@ -1,12 +1,12 @@
-# GoDaddy Pro Control Panel Demo
+# Control Panel Demo
 Straightforward control panel example utilising bootstrap and custom styling.
 
 Once running you'll need to login to view the control panel.
 Click the Login button and then enter (case-sensitive)
 Either:
-*DF
+* DF
 OR 
-*Heart
+* Heart
 
 This will pretend like we've talked to an auth server and set our user state to the preconfigured setup.
 
